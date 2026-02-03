@@ -10,6 +10,7 @@
 body {
   align-content: center;
   text-align: center;
+  background: light-dark(white, url("https://asgsr.org/wp-content/uploads/2020/01/iStock-697020460-scaled.jpg"):
 }
 
 a {
