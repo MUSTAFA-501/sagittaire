@@ -13,6 +13,7 @@ body {
 }
 
 a {
+  font-decoration: none;
   padding: 1rem;
   color: white;
   background: green;
